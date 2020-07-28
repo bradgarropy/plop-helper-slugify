@@ -1,0 +1,41 @@
+{
+    "name": "plop-helper-slugify",
+    "version": "1.0.0",
+    "description": "💧 plop helper slugify",
+    "keywords": [
+        "plop",
+        "plop-pack",
+        "plop-helper",
+        "helper",
+        "slugify",
+        "slug"
+    ],
+    "homepage": "https://www.npmjs.com/package/plop-helper-slugify",
+    "bugs": {
+        "url": "https://github.com/bradgarropy/plop-helper-slugify/issues"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Brad Garropy",
+        "email": "bradgarropy@gmail.com",
+        "url": "https://bradgarropy.com"
+    },
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bradgarropy/plop-helper-slugify"
+    },
+    "scripts": {},
+    "dependencies": {
+        "slugify": "^1.4.5"
+    },
+    "devDependencies": {
+        "babel-eslint": "^10.1.0",
+        "eslint": "^7.5.0",
+        "eslint-config-bradgarropy": "^1.3.2",
+        "eslint-plugin-jsx-a11y": "^6.3.1",
+        "eslint-plugin-react": "^7.20.4",
+        "eslint-plugin-react-hooks": "^4.0.8"
+    },
+    "peerDependencies": {}
+}
