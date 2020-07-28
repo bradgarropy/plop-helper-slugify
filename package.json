@@ -1,6 +1,6 @@
 {
     "name": "plop-helper-slugify",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "💧 plop helper slugify",
     "keywords": [
         "plop",
@@ -10,7 +10,7 @@
         "slugify",
         "slug"
     ],
-    "homepage": "https://www.npmjs.com/package/plop-helper-slugify",
+    "homepage": "https://npmjs.com/package/plop-helper-slugify",
     "bugs": {
         "url": "https://github.com/bradgarropy/plop-helper-slugify/issues"
     },
