@@ -6,7 +6,7 @@ const helpers = plop => {
     plop.setHelper("slugify", text => {
         const options = {
             lower: true,
-            remove: /[']/g,
+            remove: /['.]/g,
         }
 
         const slug = slugify(text, options)
